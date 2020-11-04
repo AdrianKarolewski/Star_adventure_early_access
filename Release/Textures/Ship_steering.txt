@@ -1,0 +1,29 @@
+----------------Player_1----------------         
+go up - W                                        
+go down - S                                      
+go right - D                                     
+go left - A                                     
+shot - Space                                     
+ship rotation - M                                
+speed up - Left Shift                            
+
+-----------In solo game also-----------
+
+go up - up arrow 
+go down - down arrow
+go right - right arrow
+go left - left arrow
+shot - left mouse button
+ship rotation - Right Mouse
+speed up - right ctrl
+
+----------------Player_2----------------
+go up - up arrow 
+go down - down arrow
+go right - right arrow
+go left - left arrow
+shot - left mouse button
+ship rotation - Right Mouse
+speed up - right ctrl
+
+
